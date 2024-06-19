@@ -4,4 +4,5 @@
      Day 3 (04/06/2024) Previous Days i searched abour ai for cybersec searched 
                         for internship and today i moved on with learning htb
                         (Hack-the-box)some basic of cyber-security
+     Day 4 (19 -06-2024) I have created my resume using html and some basic css and looking for project ideas for hackathon 
  
