@@ -6,4 +6,5 @@
                         (Hack-the-box)some basic of cyber-security
      Day 4 (19 -06-2024) I have created my resume using html and some basic css and looking for project ideas for hackathon 
      Day 5 (22-06-2024)  Attended a Conference
-     Day 6 (23-06-2924)  Learning JavaScript 
+     Day 6 (23-06-2924)  Learning JavaScript
+     Day 7 (24-06-2024)  Looked over some ML Open Source Projects
