@@ -8,3 +8,6 @@
      Day 5 (22-06-2024)  Attended a Conference
      Day 6 (23-06-2924)  Learning JavaScript
      Day 7 (24-06-2024)  Looked over some ML Open Source Projects
+     Day 8 (25-06-2024)  Got assigned for research about various T2I and I2I models under Liverpool
+                         and builc basic code for T2I one to check inference 
+     Day 9 (26-06-2024)  Started working on Output quality 
