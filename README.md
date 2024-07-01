@@ -14,4 +14,5 @@
      Day 10      (27-06-2024)  Learned Basic of Javasript for my internship and created some project over it .
      Day 11      (28-06-2024)  Trying Onediff over WSL 
      Day 12      (29-06-2024)  Trying to increase speed of onediff on T2I model  and working upon music recommendation system for internship.
-     Dat 13      (30-06-2024)  Enjoyed the day
+     Day 13      (30-06-2024)  Enjoyed the day
+     Day 14      (01-07-2024)  Learned About DOM
