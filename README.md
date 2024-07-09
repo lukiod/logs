@@ -16,3 +16,4 @@
      Day 12      (29-06-2024)  Trying to increase speed of onediff on T2I model  and working upon music recommendation system for internship.
      Day 13      (30-06-2024)  Enjoyed the day
      Day 14      (01-07-2024)  Learned About DOM
+     Day 15      (09-07-2024)  In the past few days i have been busy with all the research stuff and some internship task .
