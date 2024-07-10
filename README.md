@@ -17,3 +17,4 @@
      Day 13      (30-06-2024)  Enjoyed the day
      Day 14      (01-07-2024)  Learned About DOM
      Day 15      (09-07-2024)  In the past few days i have been busy with all the research stuff and some internship task .
+     Day 16      (10-07-2024)  i will be researching upon some cool stuff related to spectral classification as for isro hackathon.
