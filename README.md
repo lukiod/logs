@@ -18,3 +18,4 @@
      Day 14      (01-07-2024)  Learned About DOM
      Day 15      (09-07-2024)  In the past few days i have been busy with all the research stuff and some internship task .
      Day 16      (10-07-2024)  i will be researching upon some cool stuff related to spectral classification as for isro hackathon.
+     Day 17      (02-09-2024)  Got rejected for Isro and working on SIH Hackathon and in the  previous days implemented onediff optimization to the livepeer pipes 
